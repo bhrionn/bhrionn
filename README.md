@@ -7,7 +7,7 @@ Solutions Engineer with a passion for building intelligent systems and modern cl
 ## 🚀 Current Focus
 
 <pre>
-<b>LLM Coding:</b>      <b>Claude, Copilot, Gemini, Grok, Cursor, Codex 👀 </b>
+<b>LLM Coding:</b>      <b>Claude, Copilot, Gemini, Grok, Cursor, Kiro, Codex 👀 </b>
 <b>Cloud:</b>           Learning AWS architecture and deployment patterns
 <b>Languages:</b>       TypeScript for robust applications, Python for AI/ML workflows
 <b>AI & LLMs:</b>       Building with large language models and agentic AI systems
