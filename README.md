@@ -24,6 +24,7 @@ Solutions Engineer with a passion for building intelligent systems and modern cl
 <b>AI/ML:</b>         LLMs | Hugging Face | MCP
 <b>Development:</b>   Agentic AI Coding | API Design
 <b>Build:</b>         Github Actions | Azure Pipelines | Docker
+<b>Tools:</b>         git, VSCode, llm agents, linux  
 </pre>
 
 ## 🎯 Portfolio
@@ -39,7 +40,7 @@ Solutions Engineer with a passion for building intelligent systems and modern cl
 
 ## 📫 Let's Connect
 
-✅ Always interested in discussing AI applications, cloud architecture, and innovative engineering solutions. Currently looking for opportunities with 🐍 Python, 🦀 Rust , 📘 TypeScript developing AI LLM cli's ✨  👀
+✅ Always interested in discussing AI applications, cloud architecture, and innovative engineering solutions. Currently looking for an opportunity targeting 🐍 Python, 🦀 Rust , 📘 TypeScript developing AI LLM cli's ✨  👀
 
 ---
 
