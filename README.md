@@ -2,7 +2,7 @@
 
 ## ⚡ About Me
 
-Solutions Engineer with a passion for building intelligent systems and modern cloud architectures. Currently exploring the intersection of AI and practical engineering solutions using Pythin, Typescript and Rust. In another life I was a C++/C#/.NET Systems engineer. 👀 
+Solutions Engineer with a passion for building intelligent systems and modern cloud architectures. Currently exploring the intersection of AI and practical engineering solutions using Python, Typescript and Rust. In another life I was a C++/C#/.NET Systems engineer. 👀 
 
 ## 🚀 Current Focus
 
