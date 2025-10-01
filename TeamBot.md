@@ -134,7 +134,7 @@ https://docs.claude.com/en/docs/claude-code/github-actions
 <b>Type:</b>         Workflow
 <b>Install:</b>      Workflow downloads claude-cli, trigger @claude-cli
 <b>Notes:</b>        
-• Repo requires secrets.GEMINI_API_KEY, - Anthropic API key
+• Repo requires secrets.ANTHROPIC_API_KEY, - Anthropic API key
 • runs on GitHub-hosted runners, which consume your GitHub Actions minutes
 • Uses github workflows for custom work. 
 
@@ -142,6 +142,25 @@ https://docs.claude.com/en/docs/claude-code/github-actions
 • @claude-cli implement this feature based on the issue description
 • @claude-cli how should I implement user authentication for this endpoint?
 • @claude-cli fix the TypeError in the user dashboard component
+</pre>
+
+### ✨ Cursor CLI (using sonnet 4.5) (uses CURSOR_API_KEY API Key)
+<pre>
+<b>Name:</b>         <b>Cursor</b>
+<b>Description:</b>  Cursor CLI access to -model gpt-5
+<b>Type:</b>         Workflow
+<b>Install:</b>      Workflow downloads cursor-cli, trigger @cursor-cli
+<b>Notes:</b>        
+• Repo requires secrets.CURSOR_API_KEY, - Anthropic API key
+• runs on GitHub-hosted runners, which consume your GitHub Actions minutes
+• Uses github workflows for custom work. 
+
+<b>Commands:</b>     
+• @cursor-cli implement this feature based on the issue description
+• @cursor-cli how should I implement user authentication for this endpoint?
+• @cursor-cli fix the TypeError in the user dashboard component
+
+https://cursor.com/docs/cli/github-actions
 </pre>
 
 <pre>
