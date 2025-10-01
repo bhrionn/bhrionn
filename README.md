@@ -37,6 +37,12 @@ Solutions Engineer with a passion for building intelligent systems and modern cl
 <b>Books:</b>         https://www.amazon.com/author/bbyrne1
 </pre>
 
+## 🤖 Meet the Team
+
+Here are the details of my bot team that I work with. Assign issues, PR, and eviews to various bots helps speed up work and development. Needless to say these agents are in the IDE for additional work.
+
+
+Click here >> [Bot Team Details](./TeamBot.md)
 
 ## 📫 Let's Connect
 
