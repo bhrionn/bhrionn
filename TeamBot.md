@@ -144,7 +144,7 @@ https://docs.claude.com/en/docs/claude-code/github-actions
 • @claude-cli fix the TypeError in the user dashboard component
 </pre>
 
-### ✨ Cursor CLI (using sonnet 4.5) (uses CURSOR_API_KEY API Key)
+### ✨ Cursor CLI (using gpt-5) (uses CURSOR_API_KEY API Key)
 <pre>
 <b>Name:</b>         <b>Cursor</b>
 <b>Description:</b>  Cursor CLI access to -model gpt-5
