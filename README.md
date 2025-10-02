@@ -41,8 +41,11 @@ Solutions Engineer with a passion for building intelligent systems and modern cl
 
 Here are the details of my bot team that I work with. Assign issues, PR, and eviews to various bots helps speed up work and development. Needless to say these agents are in the IDE for additional work.
 
-
 Click here >> [Bot Team Details](./TeamBot.md)
+
+## 🚀 Gist of my work
+
+Typescript best practices [Typescript Best practices](https://gist.github.com/bhrionn/0a456cc438520fd18b9942e838282a92) 
 
 ## 📫 Let's Connect
 
